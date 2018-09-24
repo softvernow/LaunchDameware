@@ -1,0 +1,10 @@
+c:\users\efortes\source\repos\LaunchDameware\LaunchDameware\bin\Debug\LaunchDameware.exe.config
+c:\users\efortes\source\repos\LaunchDameware\LaunchDameware\bin\Debug\LaunchDameware.exe
+c:\users\efortes\source\repos\LaunchDameware\LaunchDameware\bin\Debug\LaunchDameware.pdb
+c:\users\efortes\source\repos\LaunchDameware\LaunchDameware\obj\Debug\LaunchDameware.csprojResolveAssemblyReference.cache
+c:\users\efortes\source\repos\LaunchDameware\LaunchDameware\obj\Debug\LaunchDameware.Form1.resources
+c:\users\efortes\source\repos\LaunchDameware\LaunchDameware\obj\Debug\LaunchDameware.Properties.Resources.resources
+c:\users\efortes\source\repos\LaunchDameware\LaunchDameware\obj\Debug\LaunchDameware.csproj.GenerateResource.Cache
+c:\users\efortes\source\repos\LaunchDameware\LaunchDameware\obj\Debug\LaunchDameware.csproj.CoreCompileInputs.cache
+c:\users\efortes\source\repos\LaunchDameware\LaunchDameware\obj\Debug\LaunchDameware.exe
+c:\users\efortes\source\repos\LaunchDameware\LaunchDameware\obj\Debug\LaunchDameware.pdb
